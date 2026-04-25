@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Global Climate Risk Intelligence Dashboard
 
 ## Project Overview
@@ -13,12 +13,10 @@ For this project, I will build an interactive dashboard to explore global climat
 
 This project aims to build an interactive dashboard using Dash to analyze and compare global climate risk across countries. The dashboard will use the Climate Risk Index dataset to explore relationships between risk, fatalities, and economic losses.
 
->>>>>>> 3c80213 (update README and local changes)
 ---
 
 ## Objective
 
-<<<<<<< HEAD
 The main objective of this project is to design a dashboard that helps users:
 
 - Compare climate risk between countries
@@ -30,13 +28,11 @@ To design a data-driven dashboard that enables users to:
 - Compare climate risk across countries  
 - Analyze economic and human impacts  
 - Identify high-risk regions using normalized metrics  
->>>>>>> 3c80213 (update README and local changes)
 
 ---
 
 ## Data Sources
 
-<<<<<<< HEAD
 - Climate Risk Index Dataset
 - Resource links provided with the dataset
 
@@ -152,7 +148,6 @@ To design a data-driven dashboard that enables users to:
 - Dash (Plotly)  
 - Altair / Plotly  
 - Git & GitHub  
->>>>>>> 3c80213 (update README and local changes)
 
 ---
 
@@ -162,4 +157,4 @@ To design a data-driven dashboard that enables users to:
 The final outcome will be an interactive dashboard that helps users explore and compare global climate risk in a clear and visual way.
 =======
 An interactive dashboard that provides insights into global climate risk and supports data-driven decision-making.
->>>>>>> 3c80213 (update README and local changes)
+
